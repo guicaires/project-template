@@ -11,15 +11,15 @@ One to two paragraph statement about your product and what it does.
     <img src=".github/img/header.png"></img>
 </p>
 
-## Objective
+## :dart: Objective
 
 Talk a little about the purpose of your project.
 
-## Justification
+## :black_nib: Justification
 
 Is there any justification for why you developed this project?
 
-## Installation
+## :construction_worker: Installation
 
 Clone repository:
 
@@ -27,21 +27,21 @@ Clone repository:
 git clone https://github.com/gcairesdev/project
 ```
 
-## Usage example
+## 👨‍🏫 Usage example
 
 A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
 
-## Author
+## 👨🏼‍💻 Author
 
 Foto | Nome | GitHub | Likedin | E-mail
 ---- | ---- | ------ | ------- | ------
 <img src="https://avatars1.githubusercontent.com/u/54117888?s=460&u=aa7d6143c4e1fdab1ffa6e5fd5ebfe64572f2eae&v=4" width="100px"> | Guilherme Caires | [gcairesdev](https://github.com/gcairesdev) | [Linkedin](https://linkedin.com/in/guilherme-caires/) | contatogcaires@gmail.com
 
-## Contributing
+## 🤝 Contributing
 
 See [CONTRIBUTING](.github/CONTRIBUTING.md) for more information.
 
-## License
+## :page_facing_up: License
 
 Distributed under the MIT license. See [LICENSE](.github/LICENSE.md) for more information.
 
