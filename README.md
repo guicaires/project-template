@@ -7,7 +7,9 @@
 
 One to two paragraph statement about your product and what it does.
 
-![](.github/img/header.png)
+<p align="center">
+    <img src=".github/img/header.png"></img>
+</p>
 
 ## Objective
 
