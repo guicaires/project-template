@@ -46,7 +46,7 @@ Distributed under the MIT license. See [LICENSE](.github/LICENSE.md) for more in
 ---
 
 <p align="center">
-    Made with :heart: by Guilherme Caires
+    Made with :heart: by <a href="https://github.com/gcairesdev">Guilherme Caires</a>
 </p>
 
 <!-- Markdown link & img dfn's -->
