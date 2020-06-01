@@ -35,11 +35,19 @@ Foto | Nome | GitHub | Likedin | E-mail
 ---- | ---- | ------ | ------- | ------
 <img src="https://avatars1.githubusercontent.com/u/54117888?s=460&u=aa7d6143c4e1fdab1ffa6e5fd5ebfe64572f2eae&v=4" width="100px"> | Guilherme Caires | [gcairesdev](https://github.com/gcairesdev) | [Linkedin](https://linkedin.com/in/guilherme-caires/) | contatogcaires@gmail.com
 
-Distributed under the MIT license. See [LICENSE](.github/LICENSE.md) for more information.
-
 ## Contributing
 
 See [CONTRIBUTING](.github/CONTRIBUTING.md) for more information.
+
+## License
+
+Distributed under the MIT license. See [LICENSE](.github/LICENSE.md) for more information.
+
+---
+
+<p align="center">
+    Made with :heart: by Guilherme Caires
+</p>
 
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
