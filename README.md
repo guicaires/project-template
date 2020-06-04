@@ -41,11 +41,12 @@ Photo | Name | GitHub | Likedin | E-mail
 
 ## 🤝 Contributing
 
-See [CONTRIBUTING](.github/CONTRIBUTING.md) for more information.
+Check out the [CONTRIBUTING](.github/CONTRIBUTING.md) page to see the best places to file issues, start discussions and begin contributing.
 
 ## :page_facing_up: License
 
-Distributed under the MIT license. See [LICENSE](.github/LICENSE.md) for more information.
+Released in 2020.
+This project is under the [MIT license](.github/LICENSE.md).
 
 ---
 

@@ -41,11 +41,14 @@ Foto | Nome | GitHub | Likedin | E-mail
 
 ## 🤝 Contribuindo
 
-Veja o [CONTRIBUTING](./CONTRIBUTING-PT-BR.md) para mais informações.
+Confira a página [CONTRIBUTING](./CONTRIBUTING-PT-BR.md) para ver os melhores locais para arquivar problemas, iniciar discussões e começar a contribuir
 
 ## :page_facing_up: Licença
 
 Distribuído sob a licença MIT.  Veja a [LICENÇA] (.github/LICENSE.md) para mais informações.
+
+Lançado em 2020.
+Este projeto está sob a [Licença MIT](.github/LICENSE.md).
 
 ---
 
