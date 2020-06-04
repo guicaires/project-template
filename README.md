@@ -35,7 +35,7 @@ A few motivating and useful examples of how your product can be used. Spice this
 
 ## 👨🏼‍💻 Author
 
-Foto | Nome | GitHub | Likedin | E-mail
+Photo | Name | GitHub | Likedin | E-mail
 ---- | ---- | ------ | ------- | ------
 <img src="https://avatars1.githubusercontent.com/u/54117888?s=460&u=aa7d6143c4e1fdab1ffa6e5fd5ebfe64572f2eae&v=4" width="100px"> | Guilherme Caires | [gcairesdev](https://github.com/gcairesdev) | [Linkedin](https://linkedin.com/in/guilherme-caires/) | contatogcaires@gmail.com
 
