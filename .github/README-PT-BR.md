@@ -41,7 +41,7 @@ Foto | Nome | GitHub | Likedin | E-mail
 
 ## 🤝 Contribuindo
 
-Veja o [CONTRIBUTING](.github/CONTRIBUTING-PT-BR.md) para mais informações.
+Veja o [CONTRIBUTING](./CONTRIBUTING-PT-BR.md) para mais informações.
 
 ## :page_facing_up: Licença
 
