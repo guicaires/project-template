@@ -8,7 +8,8 @@
 One to two paragraph statement about your product and what it does.
 
 🇧🇷 [Portuguese version](../README.md)
-🇧🇷 English version
+
+🇺🇸 English version
 
 <p align="center">
     <img src="./img/header.png"></img>

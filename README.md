@@ -7,7 +7,8 @@
 
 Um a dois parágrafos falando sobre seu produto e o que ele faz.
 
-🇺🇸 Versão em português
+🇧🇷 Versão em português
+
 🇺🇸 [Versão em inglês](.github/README-EN.md)
 
 <p align="center">
