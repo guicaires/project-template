@@ -15,15 +15,15 @@ Um a dois parágrafos falando sobre seu produto e o que ele faz.
     <img src=".github/img/header.png"></img>
 </p>
 
-## :dart: Objetivo
+## 🎯 Objetivo
 
 Fale um pouco sobre o objetivo do seu projeto.
 
-## :black_nib: Justificativa
+## ✒️ Justificativa
 
 Existe alguma justificativa do porquê você desenvolveu esse projeto?
 
-## :construction_worker: Instalação
+## 👷 Instalação
 
 Clone o repositório:
 
@@ -45,7 +45,7 @@ Foto | Nome | GitHub | Likedin | E-mail
 
 Confira a página [CONTRIBUTING](.github/CONTRIBUTING-PT-BR.md) para ver os melhores locais para arquivar problemas, iniciar discussões e começar a contribuir.
 
-## :page_facing_up: Licença
+## 🤝 Licença
 
 Lançado em 2020.
 Este projeto está sob a [Licença MIT](./LICENSE.md).

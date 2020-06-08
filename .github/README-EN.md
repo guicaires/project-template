@@ -15,15 +15,15 @@ One to two paragraph statement about your product and what it does.
     <img src="./img/header.png"></img>
 </p>
 
-## :dart: Objective
+## 🎯 Objective
 
 Talk a little about the purpose of your project.
 
-## :black_nib: Justification
+## ✒️ Justification
 
 Is there any justification for why you developed this project?
 
-## :construction_worker: Installation
+## 👷 Installation
 
 Clone repository:
 
@@ -45,7 +45,7 @@ Photo | Name | GitHub | Likedin | E-mail
 
 Check out the [CONTRIBUTING](./CONTRIBUTING.md) page to see the best places to file issues, start discussions and begin contributing.
 
-## :page_facing_up: License
+## 🤝 License
 
 Released in 2020.
 This project is under the [MIT license](../LICENSE.md).
