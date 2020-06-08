@@ -3,7 +3,7 @@
 
 [![Code Size][code-size]][code-url]
 [![License][MIT-license]][MIT-url]
-[![Realese][version]][version-url
+[![Realese][version]][version-url]
 
 Um a dois parágrafos falando sobre seu produto e o que ele faz.
 
