@@ -1,9 +1,9 @@
 # Nome do Produto
 > Descrição curta do que o seu projeto faz.
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+[![Code Size][code-size]][code-url]
+[![License][MIT-license]][MIT-url]
+[![Realese][version]][version-url
 
 Um a dois parágrafos falando sobre seu produto e o que ele faz.
 
@@ -56,8 +56,11 @@ Este projeto está sob a [Licença MIT](./LICENSE.md).
 </p>
 
 <!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
+[code-size]: https://img.shields.io/github/languages/code-size/gcairesdev/project-template
+[code-url]: https://github.com/gcairesdev/project-template
+
+[MIT-license]: https://img.shields.io/github/license/gcairesdev/project-template
+[MIT-url]: https://github.com/gcairesdev/project-template/blob/master/LICENSE.md
+
+[version]: https://img.shields.io/github/v/release/gcairesdev/project-template?include_prereleases
+[version-url]: https://github.com/gcairesdev/project-template
