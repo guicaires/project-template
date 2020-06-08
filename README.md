@@ -45,7 +45,7 @@ Foto | Nome | GitHub | Likedin | E-mail
 
 Confira a página [CONTRIBUTING](.github/CONTRIBUTING-PT-BR.md) para ver os melhores locais para arquivar problemas, iniciar discussões e começar a contribuir.
 
-## 🤝 Licença
+## 📃 Licença
 
 Lançado em 2020.
 Este projeto está sob a [Licença MIT](./LICENSE.md).

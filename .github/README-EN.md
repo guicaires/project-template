@@ -45,7 +45,7 @@ Photo | Name | GitHub | Likedin | E-mail
 
 Check out the [CONTRIBUTING](./CONTRIBUTING.md) page to see the best places to file issues, start discussions and begin contributing.
 
-## 🤝 License
+## 📃 License
 
 Released in 2020.
 This project is under the [MIT license](../LICENSE.md).
