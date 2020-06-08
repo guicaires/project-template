@@ -1,57 +1,58 @@
-# Product Name
-> Short blurb about what your product does.
+# Nome do Produto
+> Descrição curta do que o seu projeto faz.
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-One to two paragraph statement about your product and what it does.
+Um a dois parágrafos falando sobre seu produto e o que ele faz.
 
-🇧🇷 [Portuguese version](./.github/README-PT-BR.md)
+🇺🇸 Versão em português
+🇺🇸 [Versão em inglês](.github/README-EN.md)
 
 <p align="center">
     <img src=".github/img/header.png"></img>
 </p>
 
-## :dart: Objective
+## :dart: Objetivo
 
-Talk a little about the purpose of your project.
+Fale um pouco sobre o objetivo do seu projeto.
 
-## :black_nib: Justification
+## :black_nib: Justificativa
 
-Is there any justification for why you developed this project?
+Existe alguma justificativa do porquê você desenvolveu esse projeto?
 
-## :construction_worker: Installation
+## :construction_worker: Instalação
 
-Clone repository:
+Clone o repositório:
 
 ```git
-git clone https://github.com/gcairesdev/project
+git clone https://github.com/gcairesdev/projeto
 ```
 
-## 👨‍🏫 Usage example
+## 👨‍🏫 Exemplo de uso
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
+Alguns exemplos motivadores e úteis de como seu produto pode ser usado. Apimente isso com blocos de código e potencialmente mais capturas de tela.
 
-## 👨🏼‍💻 Author
+## 👨🏼‍💻 Autor
 
-Photo | Name | GitHub | Likedin | E-mail
+Foto | Nome | GitHub | Likedin | E-mail
 ---- | ---- | ------ | ------- | ------
 <img src="https://avatars1.githubusercontent.com/u/54117888?s=460&u=aa7d6143c4e1fdab1ffa6e5fd5ebfe64572f2eae&v=4" width="100px"> | Guilherme Caires | [gcairesdev](https://github.com/gcairesdev) | [Linkedin](https://linkedin.com/in/guilherme-caires/) | contatogcaires@gmail.com
 
-## 🤝 Contributing
+## 🤝 Contribuindo
 
-Check out the [CONTRIBUTING](.github/CONTRIBUTING.md) page to see the best places to file issues, start discussions and begin contributing.
+Confira a página [CONTRIBUTING](.github/CONTRIBUTING-PT-BR.md) para ver os melhores locais para arquivar problemas, iniciar discussões e começar a contribuir.
 
-## :page_facing_up: License
+## :page_facing_up: Licença
 
-Released in 2020.
-This project is under the [MIT license](.github/LICENSE.md).
+Lançado em 2020.
+Este projeto está sob a [Licença MIT](./LICENSE.md).
 
 ---
 
 <p align="center">
-    Made with :heart: by <a href="https://github.com/gcairesdev">Guilherme Caires</a>
+    Feito com :heart: por <a href="https://github.com/gcairesdev">Guilherme Caires</a>
 </p>
 
 <!-- Markdown link & img dfn's -->
