@@ -7,12 +7,8 @@
 
 Um a dois parágrafos falando sobre seu produto e o que ele faz.
 
-🇧🇷 Versão em português
-
-🇺🇸 [Versão em inglês](.github/README-EN.md)
-
 <p align="center">
-    <img src=".github/img/header.png"></img>
+    <img src=".github/img/example.png"></img>
 </p>
 
 ## 🎯 Objetivo
@@ -43,7 +39,7 @@ Foto | Nome | GitHub | Likedin | E-mail
 
 ## 🤝 Contribuindo
 
-Confira a página [CONTRIBUTING](.github/CONTRIBUTING-PT-BR.md) para ver os melhores locais para arquivar problemas, iniciar discussões e começar a contribuir.
+Confira a página [CONTRIBUTING](./CONTRIBUTING.md) para ver os melhores locais para arquivar problemas, iniciar discussões e começar a contribuir.
 
 ## 📃 Licença
 
