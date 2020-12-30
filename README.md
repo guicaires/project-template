@@ -1,9 +1,34 @@
-# Nome do Produto
-> Descrição curta do que o seu projeto faz.
+<p align="center">
+  <img src=".github/img/logo.png"></img>
+</p>
 
-[![Code Size][code-size]][code-url]
-[![License][MIT-license]][MIT-url]
-[![Realese][version]][version-url]
+<p align="center" style="margin: 50px">
+  <a href="https://github.com/gcairesdev/project-template">
+    <img src="https://img.shields.io/github/languages/code-size/gcairesdev/project-template?color=f4cd30&style=for-the-badge"></img>
+  </a>
+  <a href="https://github.com/gcairesdev/project-template/blob/master/LICENSE.md">
+    <img src="https://img.shields.io/github/languages/top/gcairesdev/project-template?color=f4cd30&style=for-the-badge"></img>
+  </a>
+  <a href="https://github.com/gcairesdev/project-template">
+    <img src="https://img.shields.io/github/license/gcairesdev/project-template?color=f4cd30&style=for-the-badge"></img>
+  </a>
+</p>
+
+# Índice
+
+* [Sobre o projeto](#nome-do-produto)
+  * [Feito com](#feito-com)
+  * [Objetivo](#objetivo)
+  * [Justificativa](#justificativa)
+* [Iniciando](#iniciando)
+  * [Pré requisitos](#pré-requisitos)
+  * [Instalação](#instalação)
+* [Contribuindo](#contribuindo)
+* [Autor](#autor)
+* [Licença](#licença)
+
+## Nome do Produto
+> Descrição curta do que o seu projeto faz.
 
 Um a dois parágrafos falando sobre seu produto e o que ele faz.
 
@@ -11,37 +36,47 @@ Um a dois parágrafos falando sobre seu produto e o que ele faz.
     <img src=".github/img/example.png"></img>
 </p>
 
-## 🎯 Objetivo
+## Feito com
+* [Tecnologia 1](#)
+* [Tecnologia 2](#)
+* [Tecnologia 3](#)
+
+## Objetivo
 
 Fale um pouco sobre o objetivo do seu projeto.
 
-## ✒️ Justificativa
+## Justificativa
 
 Existe alguma justificativa do porquê você desenvolveu esse projeto?
 
-## 👷 Instalação
+## Iniciando
+
+Para iniciar, veja os pré requisitos do projeto.
+
+## Pré requisitos
+* [Requisito 1](#)
+* [Requisito 2](#)
+* [Requisito 3](#)
+
+## Instalação
 
 Clone o repositório:
 
 ```git
-git clone https://github.com/gcairesdev/projeto
+git clone https://github.com/gcairesdev/
 ```
 
-## 👨‍🏫 Exemplo de uso
-
-Alguns exemplos motivadores e úteis de como seu produto pode ser usado. Apimente isso com blocos de código e potencialmente mais capturas de tela.
-
-## 👨🏼‍💻 Autor
+## Autor
 
 Foto | Nome | GitHub | Likedin | E-mail
 ---- | ---- | ------ | ------- | ------
 <img src="https://avatars1.githubusercontent.com/u/54117888?s=460&u=aa7d6143c4e1fdab1ffa6e5fd5ebfe64572f2eae&v=4" width="100px"> | Guilherme Caires | [gcairesdev](https://github.com/gcairesdev) | [Linkedin](https://linkedin.com/in/guilherme-caires/) | contatogcaires@gmail.com
 
-## 🤝 Contribuindo
+## Contribuindo
 
 Confira a página [CONTRIBUTING](./CONTRIBUTING.md) para ver os melhores locais para arquivar problemas, iniciar discussões e começar a contribuir.
 
-## 📃 Licença
+## Licença
 
 Lançado em 2020.
 Este projeto está sob a [Licença MIT](./LICENSE.md).
@@ -51,13 +86,3 @@ Este projeto está sob a [Licença MIT](./LICENSE.md).
 <p align="center">
     Feito com :heart: por <a href="https://github.com/gcairesdev">Guilherme Caires</a>
 </p>
-
-<!-- Markdown link & img dfn's -->
-[code-size]: https://img.shields.io/github/languages/code-size/gcairesdev/project-template
-[code-url]: https://github.com/gcairesdev/project-template
-
-[MIT-license]: https://img.shields.io/github/license/gcairesdev/project-template
-[MIT-url]: https://github.com/gcairesdev/project-template/blob/master/LICENSE.md
-
-[version]: https://img.shields.io/github/v/release/gcairesdev/project-template?include_prereleases
-[version-url]: https://github.com/gcairesdev/project-template
