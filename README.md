@@ -33,7 +33,7 @@
 Um a dois parágrafos falando sobre seu produto e o que ele faz.
 
 <p align="center">
-    <img src=".github/img/example.png"></img>
+  <img src=".github/img/example.png"></img>
 </p>
 
 ## Feito com
@@ -63,14 +63,14 @@ Para iniciar, veja os pré requisitos do projeto.
 Clone o repositório:
 
 ```git
-git clone https://github.com/gcairesdev/
+git clone https://github.com/gcairesdev/project-template
 ```
 
 ## Autor
 
-Foto | Nome | GitHub | Likedin | E-mail
----- | ---- | ------ | ------- | ------
-<img src="https://avatars1.githubusercontent.com/u/54117888?s=460&u=aa7d6143c4e1fdab1ffa6e5fd5ebfe64572f2eae&v=4" width="100px"> | Guilherme Caires | [gcairesdev](https://github.com/gcairesdev) | [Linkedin](https://linkedin.com/in/guilherme-caires/) | contatogcaires@gmail.com
+|                |                  |          |            |         |
+|----------------|------------------|----------|------------|---------|
+| ![][githubImg] | Guilherme Caires | [Github] | [Linkedin] | [Email] |
 
 ## Contribuindo
 
@@ -86,3 +86,9 @@ Este projeto está sob a [Licença MIT](./LICENSE.md).
 <p align="center">
     Feito com :heart: por <a href="https://github.com/gcairesdev">Guilherme Caires</a>
 </p>
+
+<!-- Markdown link & img dfn's -->
+[Github]: https://github.com/gcairesdev
+[GithubImg]: https://avatars.githubusercontent.com/u/54117888?s=100
+[Linkedin]: https://linkedin.com/in/guilherme-caires/
+[Email]: contatogcaires@gmail.com
